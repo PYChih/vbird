@@ -1,4 +1,4 @@
-# 鳥哥的Linux基礎學習訓練教材
+# vbird_linux_learn
 ###### tags: `Linux`
 1. 初始使用Linux與指令列模式初探
     - 硬體五大單元:
